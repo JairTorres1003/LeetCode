@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "private": true,
+  "license": "MIT",
+  "author": "Jair Torres",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JairTorres1003/LeetCode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JairTorres1003/LeetCode/issues"
+  },
+  "homepage": "https://github.com/JairTorres1003/LeetCode#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
